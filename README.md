@@ -1,1 +1,1 @@
-# -COVID-19-trend-analysis-and-forecasting
+Developed an interactive analytics and forecasting project using Python and SQLite to analyze COVID-19 trends, incorporating advanced data visualization, machine learning predictions, and automated reporting.
